@@ -4,7 +4,9 @@
 export type { ERC20 } from "./ERC20";
 export type { Market } from "./Market";
 export type { Vault } from "./Vault";
+export type { VaultV2 } from "./VaultV2";
 export * as factories from "./factories";
 export { ERC20__factory } from "./factories/ERC20__factory";
 export { Market__factory } from "./factories/Market__factory";
 export { Vault__factory } from "./factories/Vault__factory";
+export { VaultV2__factory } from "./factories/VaultV2__factory";

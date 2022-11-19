@@ -4,3 +4,4 @@
 export { ERC20__factory } from "./ERC20__factory";
 export { Market__factory } from "./Market__factory";
 export { Vault__factory } from "./Vault__factory";
+export { VaultV2__factory } from "./VaultV2__factory";
