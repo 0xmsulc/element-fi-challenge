@@ -1,6 +1,6 @@
 # Element Takehome Solidity Test
 
-This trial project is designed to test basic and intermediate solidity knowledge. In this folder we have pre-initialized a development and testing environment called [hardhat](https://hardhat.org/) and created an example test. Please fork this repo, download a local copy, and develop a set of solutions to the problems. Please do not make your forked repo or solutions public. We look forward to learning more about your skills!
+This trial project is designed to test basic and intermediate solidity knowledge. In this folder we have pre-initialized a development and testing environment called [hardhat](https://hardhat.org/) and created an example test.
 
 ## Tasks
 
